@@ -1,0 +1,422 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.armando-rodriguezordenador.com" resolutions="1x" timestamp="1448576203266">
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="220826747" ref="phone>habilidades:phone>contactame:phone>portafolio:phone>index:phone>perfil"/>
+      <file name="habilidades.css" crc="4256267354" ref="phone>habilidades"/>
+      <file name="contactame.css" crc="3925314386" ref="phone>contactame"/>
+      <file name="portafolio.css" crc="3974532103" ref="phone>portafolio"/>
+      <file name="index.css" crc="3976475489" ref="phone>index"/>
+      <file name="perfil.css" crc="3875072322" ref="phone>perfil"/>
+    </folder>
+    <file name="index.html" crc="4256597820" seo="true" mt="1448575671271" redirect="true"/>
+    <file name="perfil.html" crc="3793510096" seo="true" mt="1448575878254" redirect="true"/>
+    <file name="portafolio.html" crc="26687433" seo="true" mt="1448575671271" redirect="true"/>
+    <file name="contactame.html" crc="183381444" seo="true" mt="1448575671271" redirect="true"/>
+    <file name="habilidades.html" crc="4134728161" seo="true" mt="1448575926642" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-p_g_-maestra.css" crc="4157787354" ref="habilidades:perfil:portafolio:contactame:index"/>
+    <file name="habilidades.css" crc="3807825919" ref="habilidades"/>
+    <file name="perfil.css" crc="232861225" ref="perfil"/>
+    <file name="portafolio.css" crc="480040353" ref="portafolio"/>
+    <file name="contactame.css" crc="318451933" ref="contactame"/>
+    <file name="index.css" crc="399856843" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="museredirect.js" crc="3899419633" ref="tablet>index:tablet>perfil:tablet>portafolio:tablet>contactame:tablet>habilidades:perfil:index:portafolio:contactame:habilidades"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="tablet>index:tablet>perfil:tablet>portafolio:tablet>contactame:tablet>habilidades:perfil:index:portafolio:contactame:habilidades:phone>index:phone>perfil:phone>portafolio:phone>contactame:phone>habilidades"/>
+    <file name="museutils.js" crc="275725342" ref="tablet>index:tablet>perfil:tablet>portafolio:tablet>contactame:tablet>habilidades:perfil:index:portafolio:contactame:habilidades:phone>index:phone>perfil:phone>portafolio:phone>contactame:phone>habilidades"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="tablet>index:tablet>perfil:tablet>portafolio:tablet>contactame:tablet>habilidades:phone>index:phone>perfil:phone>portafolio:phone>contactame:phone>habilidades"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="tablet>index:tablet>perfil:tablet>portafolio:tablet>contactame:tablet>habilidades:perfil:index:portafolio:contactame:habilidades:phone>index:phone>perfil:phone>portafolio:phone>contactame:phone>habilidades"/>
+    <file name="webpro.js" crc="3883484123" ref="tablet>index:tablet>portafolio:tablet>contactame:index:portafolio:contactame:phone>index:phone>portafolio:phone>contactame"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="tablet>index:tablet>portafolio:index:portafolio:phone>index:phone>portafolio"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="tablet>index:tablet>portafolio:index:portafolio:phone>index:phone>portafolio"/>
+    <file name="touchswipe.js" crc="4218319045" ref="tablet>index:tablet>portafolio:index:portafolio:phone>index:phone>portafolio"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="tablet>index:tablet>perfil:tablet>portafolio:tablet>contactame:tablet>habilidades:perfil:index:portafolio:contactame:habilidades:phone>index:phone>perfil:phone>portafolio:phone>contactame:phone>habilidades"/>
+    <file name="html5shiv.js" crc="4241844378" ref="tablet>index:tablet>perfil:tablet>portafolio:tablet>contactame:tablet>habilidades:perfil:index:portafolio:contactame:habilidades:phone>index:phone>perfil:phone>portafolio:phone>contactame:phone>habilidades"/>
+    <file name="pie.js" crc="3827607177" ref="tablet>portafolio:portafolio:phone>portafolio"/>
+    <file name="form_check.php" crc="3932029206" ref="tablet>contactame:contactame:phone>contactame"/>
+    <file name="form_throttle.php" crc="314685628" ref="tablet>contactame:contactame:phone>contactame"/>
+    <file name="form_process.php" crc="401030677" ref="tablet>contactame:contactame:phone>contactame"/>
+    <file name="form-u1988.php" crc="4087293596" ref="tablet>contactame"/>
+    <file name="form-u1457.php" crc="127963282" ref="contactame"/>
+    <file name="form-u2904.php" crc="3883047726" ref="phone>contactame"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="59040056" seo="true" ref="tablet>index:tablet>perfil:tablet>portafolio:tablet>contactame:tablet>habilidades:perfil:index:portafolio:contactame:habilidades:phone>index:phone>perfil:phone>portafolio:phone>contactame:phone>habilidades"/>
+    <file name="icono - menú.png" crc="3919719036" ref="tablet>index:tablet>perfil:tablet>portafolio:tablet>contactame:tablet>habilidades:phone>index:phone>perfil:phone>portafolio:phone>contactame:phone>habilidades"/>
+    <file name="u1679-4-a.png" crc="4140499855" ref="tablet>index"/>
+    <file name="u1687-4.png" crc="121615529" ref="tablet>index"/>
+    <file name="u1693-4.png" crc="3784583938" ref="tablet>index"/>
+    <file name="u1698-4.png" crc="3765980144" ref="tablet>index"/>
+    <file name="foto 04.jpg" crc="3896768973" seo="true" ref="tablet>index:phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="tablet>index:tablet>perfil:tablet>portafolio:tablet>contactame:tablet>habilidades:index:portafolio:contactame:phone>index:phone>perfil:phone>portafolio:phone>contactame:phone>habilidades"/>
+    <file name="foto 3.jpg" crc="3932658040" seo="true" ref="tablet>index:phone>index"/>
+    <file name="armando 1.jpg" crc="4039268988" seo="true" ref="tablet>index:phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="tablet>index:tablet>portafolio:index:portafolio:phone>index:phone>portafolio"/>
+    <file name="u1640-4.png" crc="4237178646" ref="tablet>index"/>
+    <file name="u1661-10.png" crc="479292432" ref="tablet>index"/>
+    <file name="u1664-4.png" crc="254401072" ref="tablet>index"/>
+    <file name="u1659-4.png" crc="410381880" ref="tablet>index"/>
+    <file name="u1662-8.png" crc="4288292028" ref="tablet>index"/>
+    <file name="u1665-4.png" crc="254401072" ref="tablet>index"/>
+    <file name="u1660-4.png" crc="4251153943" ref="tablet>index"/>
+    <file name="u1663-12.png" crc="382351573" ref="tablet>index"/>
+    <file name="u1666-4.png" crc="254401072" ref="tablet>index"/>
+    <file name="carta01.png" crc="4126533314" seo="true" ref="phone>index:phone>perfil:phone>contactame:phone>habilidades"/>
+    <file name="icono de cel.png" crc="3933993766" seo="true" ref="phone>index:phone>perfil:phone>contactame:phone>habilidades"/>
+    <file name="u1647-4.png" crc="4017077087" ref="tablet>index"/>
+    <file name="u1643-4.png" crc="327004185" ref="tablet>index"/>
+    <file name="u1646-4.png" crc="507341463" ref="tablet>index"/>
+    <file name="u1654-4.png" crc="15207673" ref="tablet>index"/>
+    <file name="icono de facebook.png" crc="162787145" seo="true" ref="phone>index:phone>perfil:phone>contactame:phone>habilidades"/>
+    <file name="icono de insta.png" crc="4214896574" seo="true" ref="phone>index:phone>perfil:phone>contactame:phone>habilidades"/>
+    <file name="icono de twitter.png" crc="132088374" seo="true" ref="phone>index:phone>perfil:phone>contactame:phone>habilidades"/>
+    <file name="u1658-4.png" crc="231334299" ref="tablet>index"/>
+    <file name="u1642-4.png" crc="4091270764" ref="tablet>index"/>
+    <file name="u1655-4.png" crc="512711354" ref="tablet>index"/>
+    <file name="u1740-6.png" crc="4205824775" ref="tablet>index:tablet>perfil:tablet>portafolio:tablet>contactame:tablet>habilidades"/>
+    <file name="u1821.png" crc="4140499855" ref="tablet>perfil"/>
+    <file name="u1821-a.png" crc="4140499855" ref="tablet>perfil"/>
+    <file name="u1810-4.png" crc="3784583938" ref="tablet>perfil"/>
+    <file name="u1807-4.png" crc="3765980144" ref="tablet>perfil"/>
+    <file name="u1758-4.png" crc="4212499356" ref="tablet>perfil"/>
+    <file name="yojpg189x283.jpg" crc="378666137" seo="true" ref="tablet>perfil"/>
+    <file name="u1777-8.png" crc="161760503" ref="tablet>perfil"/>
+    <file name="u1768-4.png" crc="4017077087" ref="tablet>perfil"/>
+    <file name="u1765-4.png" crc="327004185" ref="tablet>perfil"/>
+    <file name="u1763-4.png" crc="507341463" ref="tablet>perfil"/>
+    <file name="u1764-4.png" crc="15207673" ref="tablet>perfil"/>
+    <file name="u1767-4.png" crc="231334299" ref="tablet>perfil"/>
+    <file name="u1762-4.png" crc="4091270764" ref="tablet>perfil"/>
+    <file name="u1766-4.png" crc="512711354" ref="tablet>perfil"/>
+    <file name="u1865.png" crc="4140499855" ref="tablet>portafolio"/>
+    <file name="u1865-a.png" crc="4140499855" ref="tablet>portafolio"/>
+    <file name="u1855-4.png" crc="121615529" ref="tablet>portafolio"/>
+    <file name="u1869-4.png" crc="3765980144" ref="tablet>portafolio"/>
+    <file name="u1886-4.png" crc="3989036647" ref="tablet>portafolio"/>
+    <file name="foto 1-crop-u1912.jpg" crc="328733207" ref="tablet>portafolio"/>
+    <file name="foto 04-crop-u1918.jpg" crc="3797008892" ref="tablet>portafolio"/>
+    <file name="foto 3-crop-u1928.jpg" crc="290451463" ref="tablet>portafolio"/>
+    <file name="armando 1-crop-u1906.jpg" crc="80316380" ref="tablet>portafolio"/>
+    <file name="banners-crop-u1910.jpg" crc="3906003054" ref="tablet>portafolio"/>
+    <file name="branding 05-crop-u1926.jpg" crc="242805328" ref="tablet>portafolio"/>
+    <file name="branding 02-crop-u1924.jpg" crc="194021357" ref="tablet>portafolio"/>
+    <file name="branding 04-crop-u1908.jpg" crc="389375646" ref="tablet>portafolio"/>
+    <file name="branding125x106.jpg" crc="139256517" seo="true" ref="tablet>portafolio"/>
+    <file name="cartel 01-crop-u1922.jpg" crc="4170334141" ref="tablet>portafolio"/>
+    <file name="cartel 02-crop-u1916.jpg" crc="3947426858" ref="tablet>portafolio"/>
+    <file name="cartel-crop-u1914.jpg" crc="4270948009" ref="tablet>portafolio"/>
+    <file name="foto 1303x453.jpg" crc="8499999" seo="true" ref="tablet>portafolio"/>
+    <file name="foto 04599x399.jpg" crc="504650403" seo="true" ref="tablet>portafolio"/>
+    <file name="foto 3599x399.jpg" crc="32395490" seo="true" ref="tablet>portafolio"/>
+    <file name="armando 1302x453.jpg" crc="218600961" seo="true" ref="tablet>portafolio"/>
+    <file name="banners599x400.jpg" crc="133730915" seo="true" ref="tablet>portafolio"/>
+    <file name="branding 05350x453.jpg" crc="4200324863" seo="true" ref="tablet>portafolio"/>
+    <file name="branding 02354x453.jpg" crc="241301967" seo="true" ref="tablet>portafolio"/>
+    <file name="branding 04238x360.jpg" crc="185054559" seo="true" ref="tablet>portafolio"/>
+    <file name="branding.jpg" crc="3831192392" seo="true" ref="tablet>portafolio:portafolio:phone>portafolio"/>
+    <file name="cartel 01293x453.jpg" crc="464418745" seo="true" ref="tablet>portafolio"/>
+    <file name="cartel 02.jpg" crc="104540091" seo="true" ref="phone>portafolio"/>
+    <file name="cartel318x453.jpg" crc="3971374731" seo="true" ref="tablet>portafolio"/>
+    <file name="u1888-4.png" crc="219171988" ref="tablet>portafolio"/>
+    <file name="u1889-4.png" crc="4047153376" ref="tablet>portafolio"/>
+    <file name="u1890-4.png" crc="3970317676" ref="tablet>portafolio"/>
+    <file name="u1837-4.png" crc="4017077087" ref="tablet>portafolio"/>
+    <file name="u1838-4.png" crc="327004185" ref="tablet>portafolio"/>
+    <file name="u1834-4.png" crc="507341463" ref="tablet>portafolio"/>
+    <file name="u1832-4.png" crc="15207673" ref="tablet>portafolio"/>
+    <file name="u1831-4.png" crc="231334299" ref="tablet>portafolio"/>
+    <file name="u1833-4.png" crc="4091270764" ref="tablet>portafolio"/>
+    <file name="u1841-4.png" crc="512711354" ref="tablet>portafolio"/>
+    <file name="u2015.png" crc="4140499855" ref="tablet>contactame"/>
+    <file name="u2015-a.png" crc="4140499855" ref="tablet>contactame"/>
+    <file name="u2031-4.png" crc="121615529" ref="tablet>contactame"/>
+    <file name="u2025-4.png" crc="3784583938" ref="tablet>contactame"/>
+    <file name="u1986-4.png" crc="3852434483" ref="tablet>contactame"/>
+    <file name="u2002.png" crc="51203070" ref="tablet>contactame"/>
+    <file name="u2002-ferr.png" crc="4052631342" ref="tablet>contactame"/>
+    <file name="u1990.png" crc="11576024" ref="tablet>contactame"/>
+    <file name="u1990-ferr.png" crc="497168888" ref="tablet>contactame"/>
+    <file name="u1998-17.png" crc="180323993" ref="tablet>contactame"/>
+    <file name="u1998-17-r.png" crc="4178907398" ref="tablet>contactame"/>
+    <file name="u1998-17-m.png" crc="4160239997" ref="tablet>contactame"/>
+    <file name="u1998-17-fs.png" crc="3996220368" ref="tablet>contactame"/>
+    <file name="u1996.png" crc="439692937" ref="tablet>contactame"/>
+    <file name="u1996-ferr.png" crc="436391666" ref="tablet>contactame"/>
+    <file name="u2044-4.png" crc="4017077087" ref="tablet>contactame"/>
+    <file name="u2051-4.png" crc="327004185" ref="tablet>contactame"/>
+    <file name="u2056-4.png" crc="507341463" ref="tablet>contactame"/>
+    <file name="u2058-4.png" crc="15207673" ref="tablet>contactame"/>
+    <file name="u2055-4.png" crc="231334299" ref="tablet>contactame"/>
+    <file name="u2054-4.png" crc="4091270764" ref="tablet>contactame"/>
+    <file name="u2057-4.png" crc="512711354" ref="tablet>contactame"/>
+    <file name="u2099.png" crc="4140499855" ref="tablet>habilidades"/>
+    <file name="u2099-a.png" crc="4140499855" ref="tablet>habilidades"/>
+    <file name="u2078-4.png" crc="121615529" ref="tablet>habilidades"/>
+    <file name="u2089-4.png" crc="3784583938" ref="tablet>habilidades"/>
+    <file name="u2082-4.png" crc="3765980144" ref="tablet>habilidades"/>
+    <file name="u2123-4.png" crc="415423056" ref="tablet>habilidades"/>
+    <file name="u2125-17.png" crc="333634899" ref="tablet>habilidades"/>
+    <file name="u2126-4.png" crc="178756127" ref="tablet>habilidades"/>
+    <file name="illustrator.png" crc="3842200727" seo="true" ref="tablet>habilidades:phone>habilidades"/>
+    <file name="photoshop.png" crc="4068255555" seo="true" ref="tablet>habilidades:phone>habilidades"/>
+    <file name="after effects.png" crc="47152911" seo="true" ref="tablet>habilidades:phone>habilidades"/>
+    <file name="premiere.png" crc="442460449" seo="true" ref="tablet>habilidades:phone>habilidades"/>
+    <file name="flash.png" crc="49831135" seo="true" ref="tablet>habilidades:phone>habilidades"/>
+    <file name="u2101-4.png" crc="4017077087" ref="tablet>habilidades"/>
+    <file name="u2102-4.png" crc="327004185" ref="tablet>habilidades"/>
+    <file name="u2116-4.png" crc="507341463" ref="tablet>habilidades"/>
+    <file name="u2112-4.png" crc="15207673" ref="tablet>habilidades"/>
+    <file name="u2113-4.png" crc="231334299" ref="tablet>habilidades"/>
+    <file name="u2103-4.png" crc="4091270764" ref="tablet>habilidades"/>
+    <file name="u2117-4.png" crc="512711354" ref="tablet>habilidades"/>
+    <file name="u341-4.png" crc="3915265183" ref="perfil"/>
+    <file name="u342-4.png" crc="426133086" ref="perfil"/>
+    <file name="u343-4.png" crc="3913840656" ref="perfil"/>
+    <file name="u344-4.png" crc="93052352" ref="perfil"/>
+    <file name="u520-4.png" crc="303318588" ref="perfil"/>
+    <file name="yojpg.jpg" crc="389528876" seo="true" ref="perfil"/>
+    <file name="u518-7.png" crc="187771735" ref="perfil"/>
+    <file name="u522-4.png" crc="4029416283" ref="perfil"/>
+    <file name="carta012.png" crc="4003032468" seo="true" ref="tablet>index:tablet>perfil:tablet>portafolio:tablet>contactame:tablet>habilidades"/>
+    <file name="u529-4.png" crc="426317766" ref="perfil"/>
+    <file name="icono de facebook2.png" crc="4145057814" seo="true" ref="tablet>index:tablet>perfil:tablet>portafolio:tablet>contactame:tablet>habilidades"/>
+    <file name="u562-4.png" crc="3769694454" ref="perfil"/>
+    <file name="icono de cel2.png" crc="145381620" seo="true" ref="tablet>index:tablet>perfil:tablet>portafolio:tablet>contactame:tablet>habilidades"/>
+    <file name="u542-4.png" crc="3896598559" ref="perfil"/>
+    <file name="icono de insta2.png" crc="403460536" seo="true" ref="tablet>index:tablet>perfil:tablet>portafolio:tablet>contactame:tablet>habilidades"/>
+    <file name="u563-4.png" crc="84245692" ref="perfil"/>
+    <file name="u543-4.png" crc="3856935711" ref="perfil"/>
+    <file name="icono de twitter2.png" crc="3919526072" seo="true" ref="tablet>index:tablet>perfil:tablet>portafolio:tablet>contactame:tablet>habilidades"/>
+    <file name="u564-4.png" crc="89369020" ref="perfil"/>
+    <file name="u505-6.png" crc="270347191" ref="perfil:index:portafolio:contactame:habilidades"/>
+    <file name="u233-4.png" crc="3944178856" ref="index"/>
+    <file name="u234-4.png" crc="3812797797" ref="index"/>
+    <file name="u235-4.png" crc="3913840656" ref="index"/>
+    <file name="u236-4.png" crc="93052352" ref="index"/>
+    <file name="foto 2-crop-u1068.jpg" crc="99883126" ref="index"/>
+    <file name="foto 3-crop-u1123.jpg" crc="4228096608" ref="index"/>
+    <file name="foto 04-crop-u1132.jpg" crc="225521262" ref="index"/>
+    <file name="u581-4.png" crc="3962376754" ref="index"/>
+    <file name="u592-11.png" crc="416856345" ref="index"/>
+    <file name="u590-4.png" crc="258564020" ref="index"/>
+    <file name="u579-4.png" crc="4024913009" ref="index"/>
+    <file name="u593-8.png" crc="3813871880" ref="index"/>
+    <file name="u597-4.png" crc="258564020" ref="index"/>
+    <file name="u582-4.png" crc="3783965930" ref="index"/>
+    <file name="u594-12.png" crc="3759724626" ref="index"/>
+    <file name="u601-4.png" crc="258564020" ref="index"/>
+    <file name="u602-4.png" crc="4029416283" ref="index"/>
+    <file name="u605-4.png" crc="426317766" ref="index"/>
+    <file name="u616-4.png" crc="3769694454" ref="index"/>
+    <file name="u608-4.png" crc="3896598559" ref="index"/>
+    <file name="u617-4.png" crc="84245692" ref="index"/>
+    <file name="u609-4.png" crc="3856935711" ref="index"/>
+    <file name="u618-4.png" crc="89369020" ref="index"/>
+    <file name="u377-4.png" crc="3915265183" ref="portafolio"/>
+    <file name="u378-4.png" crc="3812797797" ref="portafolio"/>
+    <file name="u379-4.png" crc="70770905" ref="portafolio"/>
+    <file name="u380-4.png" crc="93052352" ref="portafolio"/>
+    <file name="u716-4.png" crc="420707932" ref="portafolio"/>
+    <file name="foto 1-crop-u1348.jpg" crc="3865481602" ref="portafolio"/>
+    <file name="foto 04-crop-u1258.jpg" crc="370075694" ref="portafolio"/>
+    <file name="foto 3-crop-u1249.jpg" crc="46705764" ref="portafolio"/>
+    <file name="armando 1-crop-u1267.jpg" crc="427963259" ref="portafolio"/>
+    <file name="branding 05-crop-u1303.jpg" crc="4149893798" ref="portafolio"/>
+    <file name="branding 02-crop-u1285.jpg" crc="324727187" ref="portafolio"/>
+    <file name="branding 04-crop-u1294.jpg" crc="4284354902" ref="portafolio"/>
+    <file name="branding157x133.jpg" crc="88836039" seo="true" ref="portafolio"/>
+    <file name="cartel 02-crop-u1330.jpg" crc="198561258" ref="portafolio"/>
+    <file name="cartel-crop-u1339.jpg" crc="3759208725" ref="portafolio"/>
+    <file name="banners-crop-u1276.jpg" crc="252101679" ref="portafolio"/>
+    <file name="cartel 01-crop-u1321.jpg" crc="4268786966" ref="portafolio"/>
+    <file name="foto 1.jpg" crc="114897309" seo="true" ref="portafolio"/>
+    <file name="foto 04893x596.jpg" crc="233380755" seo="true" ref="portafolio"/>
+    <file name="foto 3893x596.jpg" crc="3873560607" seo="true" ref="portafolio"/>
+    <file name="armando 1431x646.jpg" crc="4014526980" seo="true" ref="portafolio"/>
+    <file name="branding 05.jpg" crc="3813566592" seo="true" ref="portafolio"/>
+    <file name="branding 02.jpg" crc="4071034136" seo="true" ref="portafolio"/>
+    <file name="branding 04.jpg" crc="126145470" seo="true" ref="portafolio"/>
+    <file name="cartel.jpg" crc="478470661" seo="true" ref="portafolio"/>
+    <file name="banners.jpg" crc="4213772190" seo="true" ref="portafolio"/>
+    <file name="cartel 01.jpg" crc="3913164031" seo="true" ref="portafolio"/>
+    <file name="u809-4.png" crc="267280911" ref="portafolio"/>
+    <file name="u811-4.png" crc="83360375" ref="portafolio"/>
+    <file name="u812-4.png" crc="185327731" ref="portafolio"/>
+    <file name="u413-4.png" crc="3915265183" ref="contactame"/>
+    <file name="u414-4.png" crc="3812797797" ref="contactame"/>
+    <file name="u415-4.png" crc="3913840656" ref="contactame"/>
+    <file name="u416-4.png" crc="420848503" ref="contactame"/>
+    <file name="u656-4.png" crc="4049772881" ref="contactame"/>
+    <file name="u1470.png" crc="51203070" ref="contactame"/>
+    <file name="u1470-ferr.png" crc="4052631342" ref="contactame"/>
+    <file name="u1462.png" crc="11576024" ref="contactame"/>
+    <file name="u1462-ferr.png" crc="497168888" ref="contactame"/>
+    <file name="u1468-17.png" crc="180323993" ref="contactame"/>
+    <file name="u1468-17-r.png" crc="4178907398" ref="contactame"/>
+    <file name="u1468-17-m.png" crc="4160239997" ref="contactame"/>
+    <file name="u1468-17-fs.png" crc="3996220368" ref="contactame"/>
+    <file name="u1466.png" crc="439692937" ref="contactame"/>
+    <file name="u1466-ferr.png" crc="436391666" ref="contactame"/>
+    <file name="u624-4.png" crc="4029416283" ref="contactame"/>
+    <file name="u627-4.png" crc="426317766" ref="contactame"/>
+    <file name="u638-4.png" crc="3769694454" ref="contactame"/>
+    <file name="u630-4.png" crc="3896598559" ref="contactame"/>
+    <file name="u639-4.png" crc="84245692" ref="contactame"/>
+    <file name="u631-4.png" crc="3856935711" ref="contactame"/>
+    <file name="u640-4.png" crc="89369020" ref="contactame"/>
+    <file name="u910-4.png" crc="3915265183" ref="habilidades"/>
+    <file name="u911-4.png" crc="3812797797" ref="habilidades"/>
+    <file name="u912-4.png" crc="3913840656" ref="habilidades"/>
+    <file name="u913-4.png" crc="93052352" ref="habilidades"/>
+    <file name="u901-4.png" crc="277993184" ref="habilidades"/>
+    <file name="u950-18.png" crc="4061572294" ref="habilidades"/>
+    <file name="u953-4.png" crc="357138250" ref="habilidades"/>
+    <file name="illustrator2.png" crc="3842200727" seo="true" ref="habilidades"/>
+    <file name="photoshop2.png" crc="4068255555" seo="true" ref="habilidades"/>
+    <file name="after effects2.png" crc="47152911" seo="true" ref="habilidades"/>
+    <file name="premiere2.png" crc="442460449" seo="true" ref="habilidades"/>
+    <file name="flash2.png" crc="49831135" seo="true" ref="habilidades"/>
+    <file name="u985-4.png" crc="4029416283" ref="habilidades"/>
+    <file name="u988-4.png" crc="426317766" ref="habilidades"/>
+    <file name="u991-4.png" crc="3896598559" ref="habilidades"/>
+    <file name="u992-4.png" crc="3856935711" ref="habilidades"/>
+    <file name="u999-4.png" crc="3769694454" ref="habilidades"/>
+    <file name="u1000-4.png" crc="84245692" ref="habilidades"/>
+    <file name="u1001-4.png" crc="89369020" ref="habilidades"/>
+    <file name="u2451-4-a.png" crc="4140499855" ref="phone>index"/>
+    <file name="u2460-4.png" crc="121615529" ref="phone>index"/>
+    <file name="u2448-4.png" crc="3784583938" ref="phone>index"/>
+    <file name="u2468-4.png" crc="3765980144" ref="phone>index"/>
+    <file name="u2375-4.png" crc="4218084045" ref="phone>index"/>
+    <file name="u2383-4.png" crc="3978807247" ref="phone>index"/>
+    <file name="u2378-10.png" crc="3770616368" ref="phone>index"/>
+    <file name="u2376-4.png" crc="4255295214" ref="phone>index"/>
+    <file name="u2379-8.png" crc="4094320757" ref="phone>index"/>
+    <file name="u2385-4.png" crc="254401072" ref="phone>index"/>
+    <file name="u2377-4.png" crc="34454746" ref="phone>index"/>
+    <file name="u2388-4.png" crc="254401072" ref="phone>index"/>
+    <file name="u2380-12.png" crc="80407396" ref="phone>index"/>
+    <file name="u2402-4.png" crc="513152259" ref="phone>index"/>
+    <file name="u2397-4.png" crc="246883995" ref="phone>index"/>
+    <file name="u2405-4.png" crc="214599513" ref="phone>index"/>
+    <file name="u2398-4.png" crc="4120598774" ref="phone>index"/>
+    <file name="u2401-4.png" crc="4048967871" ref="phone>index"/>
+    <file name="u2395-4.png" crc="96443844" ref="phone>index"/>
+    <file name="u2396-4.png" crc="398800146" ref="phone>index"/>
+    <file name="u2504-6.png" crc="434778653" ref="phone>index:phone>perfil:phone>portafolio:phone>contactame:phone>habilidades"/>
+    <file name="u2582.png" crc="4140499855" ref="phone>perfil"/>
+    <file name="u2582-a.png" crc="4140499855" ref="phone>perfil"/>
+    <file name="u2573-4-a.png" crc="121615529" ref="phone>perfil"/>
+    <file name="u2589-4.png" crc="3784583938" ref="phone>perfil"/>
+    <file name="u2569-4.png" crc="3765980144" ref="phone>perfil"/>
+    <file name="u2554-4.png" crc="4186491536" ref="phone>perfil"/>
+    <file name="yojpg93x140.jpg" crc="150987217" seo="true" ref="phone>perfil"/>
+    <file name="u2531-4.png" crc="513152259" ref="phone>perfil"/>
+    <file name="u2532-4.png" crc="246883995" ref="phone>perfil"/>
+    <file name="u2530-4.png" crc="214599513" ref="phone>perfil"/>
+    <file name="u2537-4.png" crc="4120598774" ref="phone>perfil"/>
+    <file name="u2540-4.png" crc="4048967871" ref="phone>perfil"/>
+    <file name="u2545-4.png" crc="96443844" ref="phone>perfil"/>
+    <file name="u2529-4.png" crc="398800146" ref="phone>perfil"/>
+    <file name="u2546-7.png" crc="365263594" ref="phone>perfil"/>
+    <file name="u2854.png" crc="4140499855" ref="phone>portafolio"/>
+    <file name="u2854-a.png" crc="4140499855" ref="phone>portafolio"/>
+    <file name="u2874-4.png" crc="121615529" ref="phone>portafolio"/>
+    <file name="u2867-4-a.png" crc="3784583938" ref="phone>portafolio"/>
+    <file name="u2862-4.png" crc="3765980144" ref="phone>portafolio"/>
+    <file name="u2693-4.png" crc="3830967784" ref="phone>portafolio"/>
+    <file name="foto 1-crop-u2699.jpg" crc="4061846736" ref="phone>portafolio"/>
+    <file name="armando 1-crop-u2719.jpg" crc="3823433792" ref="phone>portafolio"/>
+    <file name="foto 3-crop-u2697.jpg" crc="4078178908" ref="phone>portafolio"/>
+    <file name="foto 04-crop-u2707.jpg" crc="329808691" ref="phone>portafolio"/>
+    <file name="banners-crop-u2713.jpg" crc="4161110635" ref="phone>portafolio"/>
+    <file name="branding 0269x89.jpg" crc="3948028525" seo="true" ref="phone>portafolio"/>
+    <file name="branding 04-crop-u2703.jpg" crc="268735081" ref="phone>portafolio"/>
+    <file name="branding 05-crop-u2715.jpg" crc="4011849292" ref="phone>portafolio"/>
+    <file name="branding84x71.jpg" crc="3846634577" seo="true" ref="phone>portafolio"/>
+    <file name="cartel 01-crop-u2705.jpg" crc="51069907" ref="phone>portafolio"/>
+    <file name="cartel 02-crop-u2701.jpg" crc="4293736813" ref="phone>portafolio"/>
+    <file name="cartel-crop-u2709.jpg" crc="4140261217" ref="phone>portafolio"/>
+    <file name="foto 1251x374.jpg" crc="3944045451" seo="true" ref="phone>portafolio"/>
+    <file name="armando 1252x378.jpg" crc="302924680" seo="true" ref="phone>portafolio"/>
+    <file name="foto 3277x185.jpg" crc="521700972" seo="true" ref="phone>portafolio"/>
+    <file name="foto 04282x188.jpg" crc="242895014" seo="true" ref="phone>portafolio"/>
+    <file name="banners276x184.jpg" crc="40508772" seo="true" ref="phone>portafolio"/>
+    <file name="branding 02265x338.jpg" crc="74919619" seo="true" ref="phone>portafolio"/>
+    <file name="branding 04256x389.jpg" crc="3795518908" seo="true" ref="phone>portafolio"/>
+    <file name="branding 05258x333.jpg" crc="333799149" seo="true" ref="phone>portafolio"/>
+    <file name="cartel 01218x337.jpg" crc="270663456" seo="true" ref="phone>portafolio"/>
+    <file name="cartel246x350.jpg" crc="4258440558" seo="true" ref="phone>portafolio"/>
+    <file name="u2970.png" crc="4140499855" ref="phone>contactame"/>
+    <file name="u2970-a.png" crc="4140499855" ref="phone>contactame"/>
+    <file name="u2956-4.png" crc="121615529" ref="phone>contactame"/>
+    <file name="u2978-4.png" crc="3784583938" ref="phone>contactame"/>
+    <file name="u2965-4-a.png" crc="3765980144" ref="phone>contactame"/>
+    <file name="u2902-4.png" crc="3859675681" ref="phone>contactame"/>
+    <file name="u2912.png" crc="444105659" ref="phone>contactame"/>
+    <file name="u2912-ferr.png" crc="4052631342" ref="phone>contactame"/>
+    <file name="u2906.png" crc="162108551" ref="phone>contactame"/>
+    <file name="u2906-ferr.png" crc="497168888" ref="phone>contactame"/>
+    <file name="u2909-fss.png" crc="4026170465" ref="phone>contactame"/>
+    <file name="u2916-17.png" crc="73826458" ref="phone>contactame"/>
+    <file name="u2916-17-r.png" crc="61615403" ref="phone>contactame"/>
+    <file name="u2916-17-m.png" crc="438784691" ref="phone>contactame"/>
+    <file name="u2916-17-fs.png" crc="3996220368" ref="phone>contactame"/>
+    <file name="u2918.png" crc="316681681" ref="phone>contactame"/>
+    <file name="u2918-ferr.png" crc="436391666" ref="phone>contactame"/>
+    <file name="u2924-4.png" crc="513152259" ref="phone>contactame"/>
+    <file name="u2928-4.png" crc="246883995" ref="phone>contactame"/>
+    <file name="u2934-4.png" crc="214599513" ref="phone>contactame"/>
+    <file name="u2935-4.png" crc="4120598774" ref="phone>contactame"/>
+    <file name="u2931-4.png" crc="4048967871" ref="phone>contactame"/>
+    <file name="u2936-4.png" crc="96443844" ref="phone>contactame"/>
+    <file name="u2927-4.png" crc="398800146" ref="phone>contactame"/>
+    <file name="u3100.png" crc="4140499855" ref="phone>habilidades"/>
+    <file name="u3100-a.png" crc="4140499855" ref="phone>habilidades"/>
+    <file name="u3093-4.png" crc="121615529" ref="phone>habilidades"/>
+    <file name="u3084-4.png" crc="3784583938" ref="phone>habilidades"/>
+    <file name="u3077-4.png" crc="3765980144" ref="phone>habilidades"/>
+    <file name="u3024-4.png" crc="25368431" ref="phone>habilidades"/>
+    <file name="u3044-18.png" crc="3850431406" ref="phone>habilidades"/>
+    <file name="u3045-5.png" crc="120827603" ref="phone>habilidades"/>
+    <file name="u3043-4.png" crc="513152259" ref="phone>habilidades"/>
+    <file name="u3040-4.png" crc="246883995" ref="phone>habilidades"/>
+    <file name="u3030-4.png" crc="214599513" ref="phone>habilidades"/>
+    <file name="u3042-4.png" crc="4120598774" ref="phone>habilidades"/>
+    <file name="u3029-4.png" crc="4048967871" ref="phone>habilidades"/>
+    <file name="u3041-4.png" crc="96443844" ref="phone>habilidades"/>
+    <file name="u3033-4.png" crc="398800146" ref="phone>habilidades"/>
+    <file name="u1799-4-a.png" crc="121615529" ref="tablet>perfil"/>
+    <file name="u1875-4-a.png" crc="3784583938" ref="tablet>portafolio"/>
+    <file name="cartel 022.jpg" crc="192554878" seo="true" ref="tablet>portafolio:portafolio"/>
+    <file name="u2036-4-a.png" crc="3765980144" ref="tablet>contactame"/>
+    <file name="carta013.png" crc="426256054" seo="true" ref="perfil:index:contactame:habilidades"/>
+    <file name="icono de facebook3.png" crc="153824548" seo="true" ref="perfil:index:contactame:habilidades"/>
+    <file name="icono de cel3.png" crc="4057351529" seo="true" ref="perfil:index:contactame:habilidades"/>
+    <file name="icono de insta3.png" crc="203961281" seo="true" ref="perfil:index:contactame:habilidades"/>
+    <file name="icono de twitter3.png" crc="89240154" seo="true" ref="perfil:index:contactame:habilidades"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="4256754316" ref="tablet>contactame:tablet>habilidades:tablet>index:tablet>portafolio:tablet>perfil"/>
+      <file name="contactame.css" crc="3819285725" ref="tablet>contactame"/>
+      <file name="habilidades.css" crc="202520006" ref="tablet>habilidades"/>
+      <file name="index.css" crc="167012145" ref="tablet>index"/>
+      <file name="portafolio.css" crc="484457801" ref="tablet>portafolio"/>
+      <file name="perfil.css" crc="3971842908" ref="tablet>perfil"/>
+    </folder>
+    <file name="index.html" crc="4092949060" seo="true" mt="1448573504192" redirect="true"/>
+    <file name="perfil.html" crc="409729506" seo="true" mt="1448573504280" redirect="true"/>
+    <file name="portafolio.html" crc="62544092" seo="true" mt="1448573504372" redirect="true"/>
+    <file name="contactame.html" crc="180926055" seo="true" mt="1448573504456" redirect="true"/>
+    <file name="habilidades.html" crc="158501348" seo="true" mt="1448573504665" redirect="true"/>
+  </folder>
+  <file name="perfil.html" crc="4083152193" seo="true" mt="1448573504713" redirect="true"/>
+  <file name="index.html" crc="4249829039" seo="true" mt="1448573504715" redirect="true"/>
+  <file name="portafolio.html" crc="679199" seo="true" mt="1448573504716" redirect="true"/>
+  <file name="contactame.html" crc="4270641401" seo="true" mt="1448573504716" redirect="true"/>
+  <file name="habilidades.html" crc="4115780709" seo="true" mt="1448573504717" redirect="true"/>
+</manifest>
